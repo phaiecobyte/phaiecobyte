@@ -1,10 +1,10 @@
-# Hi there, I'm [PhaiEcoByte]! 👋
+# Hi there, I'm PhaiEcoByte! 👋
 
 ## 🚀 About Me
-I'm a [Your Profession, e.g., Software Developer] with a passion for [Your Interests, e.g., building innovative solutions, open-source contribution, etc.].
+I'm a student who just graduated from Build Bright University with a passion for building innovative solutions, open-source contribution etc.
 
-- 🔭 I’m currently working on **[Your Current Project or Area of Focus]**
-- 🌱 I’m currently learning **[New Technology or Skill]**
+- 🔭 I’m currently working on **Backend**
+- 🌱 I’m currently learning **.Net Aspire**
 - 💬 Ask me about **[Your Expertise, e.g., web development, machine learning]**
 - 📫 How to reach me: **[Your Email or Social Media Links]**
 - ⚡ Fun fact: **[Something Interesting About You]**
