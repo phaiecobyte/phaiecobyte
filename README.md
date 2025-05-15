@@ -4,7 +4,7 @@
 I'm a student who just graduated from Build Bright University with a passion for building innovative solutions, open-source contribution etc.
 
 - 🔭 I’m currently working on **Backend**
-- 🌱 I’m currently learning **Spring Boot** **Microservice Architecture**
+- 🌱 I’m currently learning **Spring Boot**, and**Microservice Architecture**
 - 💬 Ask me about **[Your Expertise, e.g., web development, machine learning]**
 - 📫 How to reach me: **[Your Email or Social Media Links]**
 - ⚡ Fun fact: **[Something Interesting About You]**
@@ -12,10 +12,10 @@ I'm a student who just graduated from Build Bright University with a passion for
 ---
 
 ## 🛠️ Skills
-- **Languages:** [e.g., Python, JavaScript, Java]
-- **Frameworks:** [e.g., React, Django, Flask]
-- **Tools:** [e.g., Git, Docker, VS Code]
-- **Databases:** [e.g., MySQL, MongoDB]
+- **Languages:** [e.g., Java, C#, Typescript]
+- **Frameworks:** [e.g., Spring boot, .Net, Angular]
+- **Tools:** [e.g., Git, Docker, VS Code, Jet brain products]
+- **Databases:** [e.g., Postgres, Mysql, Sql Server]
 
 ---
 
@@ -40,9 +40,9 @@ Here are some of my favorite projects:
 ---
 
 ## ✨ Hobbies
-- 🎮 Gaming
-- 📖 Reading
-- ✈️ Traveling
+- 🧘‍♂️ Meditation (Anapanasati Technique)
+- 📖 Talk with AI (ChatGpt, Git hub Copilot, Leo)
+- 🎵 Listen music
 
 ---
 
