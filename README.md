@@ -4,7 +4,7 @@
 I'm a student who just graduated from Build Bright University with a passion for building innovative solutions, open-source contribution etc.
 
 - 🔭 I’m currently working on **Backend**
-- 🌱 I’m currently learning **.Net Aspire**
+- 🌱 I’m currently learning **Spring Boot** **Microservice Architecture**
 - 💬 Ask me about **[Your Expertise, e.g., web development, machine learning]**
 - 📫 How to reach me: **[Your Email or Social Media Links]**
 - ⚡ Fun fact: **[Something Interesting About You]**
