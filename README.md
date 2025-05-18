@@ -1,14 +1,14 @@
 # Hi there, I'm PhaiEcoByte! 👋
 
 ## 🚀 About Me
-I'm a student who just graduated from Build Bright University with a passion for building innovative solutions, open-source contribution etc.
+I'm a recent graduate from Build Bright University, deeply passionate about building innovative solutions and contributing to open source. I thrive on learning and sharing knowledge with the community.
 
-- 🔭 I’m currently working on **Backend**
-- 🌱 I’m currently learning **Spring Boot**, and **Microservice Architecture**
-- 💬 Ask me about **[Your Expertise, e.g., web development, machine learning]**
-- 📫 How to reach me: **[Your Email or Social Media Links]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+🔭 Currently focused on Backend development
+🌱 Learning Spring Boot and Microservice Architecture
+💡 Always exploring new technologies and best practices
 
+
+     
 ---
 
 ## 🛠️ Skills
