@@ -7,8 +7,13 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 🌱 Learning Spring Boot and Microservice Architecture
 💡 Always exploring new technologies and best practices
 
+---
 
-     
+## 🌐 Connect with Me
+- [LinkedIn](Your LinkedIn URL)
+- [Twitter](Your Twitter URL)
+- [Personal Website](Your Website URL)
+
 ---
 
 ## 🛠️ Skills
@@ -32,13 +37,6 @@ Here are some of my favorite projects:
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Personal Website](Your Website URL)
-
----
-
 ## ✨ Hobbies
 - 🧘‍♂️ Meditation (Anapanasati Technique)
 - 📖 Talk with AI (ChatGpt, Git hub Copilot, Leo)
@@ -46,4 +44,3 @@ Here are some of my favorite projects:
 
 ---
 
-You can customize this template with your own details, links, and style preferences. Let me know if you'd like help editing this or adding more sections!
