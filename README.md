@@ -17,10 +17,10 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 ---
 
 ## 🛠️ Skills
-- **Languages:** [e.g., Java, C#, Typescript]
-- **Frameworks:** [e.g., Spring boot, .Net, Angular]
-- **Tools:** [e.g., Git, Docker, VS Code, Jet brain products]
-- **Databases:** [e.g., Postgres, Mysql, Sql Server]
+- **Languages:** Java, C#, Typescript
+- **Frameworks:** Spring boot, .Net, Angular
+- **Tools:** Git, Docker, VS Code, Jet brain products
+- **Databases:**  Postgres, Mysql, Sql Server
 
 ---
 
