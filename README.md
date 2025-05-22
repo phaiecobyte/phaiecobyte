@@ -10,9 +10,9 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Personal Website](Your Website URL)
+- LinkedIn comming soon!
+- Tiktok coming soon!
+- Personal Website comming soon!
 
 ---
 
@@ -20,7 +20,8 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 - **Languages:** Java, C#, Typescript
 - **Frameworks:** Spring boot, .Net, Angular
 - **Tools:** Git, Docker, VS Code, Jet brain products
-- **Databases:**  Postgres, Mysql, Sql Server
+- **Databases:**  Postgres, Mysql, Sql Server, Sqlite
+- **Other: Ms office, Canva, google sheet.
 
 ---
 
