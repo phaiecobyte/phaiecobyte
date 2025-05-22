@@ -11,7 +11,7 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 
 ## 🌐 Connect with Me
 - Docker hub: https://hub.docker.com/u/phaidocker
-- LinkedIn https://www.linkedin.com/in/phal-phai-5178a5276
+- LinkedIn https://www.linkedin.com/in/phai-ecobyte-5178a5276
 - Tiktok https://www.tiktok.com/@phaiecobyte
 - Personal Website comming soon!
 
