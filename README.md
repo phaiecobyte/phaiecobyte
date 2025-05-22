@@ -29,13 +29,33 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 ## 📂 Projects
 Here are some of my favorite projects:
 
-1. **[Project Name](Link to Project)**  
-   _[Short Description of the Project, e.g., A web app for tracking tasks]_  
-   - Built with [Technologies Used]
+1. **Digital Bank Api (deploy soon)
+   Ditital bank api build follow microservic using spring boot
+   - Features
+     - Customer Service
+       customer can register and manage their profile
+     - Account Service
+       customer can open
+     - Transection Service
+       manage withdraw, deposit, transfer
+     - Transection limit Service
+   - Build with spring boot and postgres
+3. **Construction sales management system (deploy soon)**  
+   Description
+   - Features:
+     - manage product, unittype, category, brand, supplier
+     - manage order,purchase
+     - generate report
+   - Built with Angular, Asp.net core web api, sql server
 
-2. **[Another Project Name](Link to Project)**  
-   _[Short Description of the Project]_  
-   - Features: [Key Features]
+4. **Tree Top Lodge (deploy soon)**  
+   Description of the Project
+   It has both admin side and customer side.
+   - Features:
+     - manage accomodations
+     - manage food and beverage
+     - mange booking
+   - Build with Angular 19, bootstrap, firebase
 
 ---
 
