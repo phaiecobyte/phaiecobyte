@@ -30,7 +30,7 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 Here are some of my favorite projects:
 
 1. **Digital Bank Api (deploy soon)
-   Ditital bank api build follow microservic using spring boot
+   Ditital bank api build follow microservice using spring boot
    - Features
      - Customer Service
        customer can register and manage their profile
