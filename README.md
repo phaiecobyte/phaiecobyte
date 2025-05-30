@@ -29,7 +29,7 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 ## 📂 Projects
 Here are some of my favorite projects:
 
-1. **Digital Bank Api (deploy soon)
+1. **Digital Bank Api (deploy soon)<br>
    Ditital bank api build follow microservice using spring boot
    - Features
      - Customer Service
@@ -49,7 +49,7 @@ Here are some of my favorite projects:
      - generate report
    - Built with Angular, Asp.net core web api, sql server
 
-5. **Tree Top Lodge (deploy soon)**  
+5. **Tree Top Lodge (deploy soon)**  <br>
    Description of the Project<br/>
    It has both admin side and customer side.
    - Features:
