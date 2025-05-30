@@ -40,7 +40,8 @@ Here are some of my favorite projects:
        manage withdraw, deposit, transfer
      - Transection limit Service
    - Build with spring boot and postgres
-3. **Construction sales management system (deploy soon)**  
+3. **Construction sales management system (deploy soon)**
+   It's build during I'm sarana researching 
    Description
    - Features:
      - manage product, unittype, category, brand, supplier
@@ -48,14 +49,14 @@ Here are some of my favorite projects:
      - generate report
    - Built with Angular, Asp.net core web api, sql server
 
-4. **Tree Top Lodge (deploy soon)**  
+5. **Tree Top Lodge (deploy soon)**  
    Description of the Project
    It has both admin side and customer side.
    - Features:
      - manage accomodations
      - manage food and beverage
      - mange booking
-   - Build with Angular 19, bootstrap, firebase
+   - Build with Angular 19, bootstrap, firebase, Spring boot, postgres
 
 ---
 
