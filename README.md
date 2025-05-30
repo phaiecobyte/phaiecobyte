@@ -50,7 +50,7 @@ Here are some of my favorite projects:
    - Built with Angular, Asp.net core web api, sql server
 
 5. **Tree Top Lodge (deploy soon)**  
-   Description of the Project
+   Description of the Project<br/>
    It has both admin side and customer side.
    - Features:
      - manage accomodations
