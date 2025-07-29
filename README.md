@@ -10,10 +10,10 @@ I'm a recent graduate from Build Bright University, deeply passionate about buil
 ---
 
 ## 🌐 Connect with Me
+- Personal Website: https://phaiecobyte.netlify.app
 - Docker hub: https://hub.docker.com/u/phaidocker
 - LinkedIn https://www.linkedin.com/in/phai-%F0%9F%85%BF%EF%B8%8F-5178a5276/
 - Tiktok https://www.tiktok.com/@phaiecobyte
-- Personal Website comming soon!
 
 ---
 
